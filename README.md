@@ -77,3 +77,81 @@ The two main components for system design in the system development life cycle a
 **(E) What does AR technology stands for? Kindly provide a scenario on the AR technology adaptation in the supermarket (In the slides).**
 
 AR stands for Augmented Reality. In a supermarket scenario, AR technology can be adapted to enhance the shopping experience. For example, customers could use AR-equipped smartphones to scan product shelves, and the AR system could provide additional information about each product, such as nutritional facts, pricing, and customer reviews, overlaid onto the real-world view through the smartphone screen. This interactive and information-rich experience can influence purchasing decisions and make the shopping process more engaging for consumers.
+
+<br>
+
+```
+Advantages of E-Commerce
+
+• Benefits extend to general society welfare
+  • Products and services available in remote areas
+  • Provides faster transmission
+  • Lower costs to issue and secure:
+    • Welfare support
+    • Electronic payments of tax refunds
+    • Public retirement
+  • Provides fraud, theft loss protection
+    • Electronic payments easier to audit and monitor
+  • Reduces commuter-caused traffic, pollution
+    • Due to telecommuting
+```
+
+<br>
+
+```
+Perfect (or pure) competition
+there are many buyers and sellers of a product, and no single buyer or seller is powerful enough to affect the price of that product
+
+Monopolistic Competition
+there are many buyers along with a relatively larger number of sellers
+
+Oligopoly
+there are few sellers. Each seller has considerable control over price. The market actions of one seller can have a strong effect on competitors
+```
+
+<br>
+
+```
+Business-to-Consumer (B2C)
+Business-to-Business (B2B)
+Consumer-to-Consumer (C2C)
+Business-to-government (B2G)
+```
+
+<br>
+
+```
+M-Commerce stands for Mobile Commerce.
+```
+
+<br>
+
+```
+What is E-commerce?
+• Use of Internet to transact business
+  • Includes Web, mobile browsers and apps
+• More formally:
+  • Digitally enabled commercial transactions between and among organizations and individuals
+```
+
+<br>
+
+```
+• enables informed decision-making, allowing businesses to respond effectively to market changes, customer preferences, and competitive landscapes
+• facilitates strategic planning by providing insights into industry trends and potential opportunities
+• essential for risk management, helping businesses anticipate challenges and plan for contingencies
+```
+
+<br>
+
+```
+Formula for Profit: Profit = Total Revenue - Total Costs
+Formula for Yearly Profit: Yearly Profit = Profit per Unit * Total Units Sold in a Year
+```
+
+<br>
+
+```
+Telephone-based (mobile phones, smartphones)
+Computer network-based (wireless local area network-based)
+```
