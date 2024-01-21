@@ -1,6 +1,42 @@
-## Question 1 (17m) ##
+## Section A ##
+  
+  ```
+  1. Which of the following is NOT a product?
+     (a) Dell personal computer
+     (b) veterinarian's treatment of a pet's injuries
+   = (c) business profit
+     (d) lawyer's advice in a divorce case
+  
+  2. Below are the types of e-commerce EXCEPT
+     (a) B2B
+     (b) B2C
+     (c) B2G
+   = (d) B2H
+  
+  3. __________ mainly deals in buying and selling, especially on a large scale.
+     (a) Shopping
+     (b) Retailing
+     (c) Distribution
+   = (d) Commerce
+  
+  4. Which of the following products is suitable for e-commerce?
+     (a) Fishes
+     (b) Apples
+   = (c) Books
+     (d) Desserts
+  
+  5. A combination of software and information designed to provide security and information for payment is called a(n) __________.
+   = (a) digital wallet
+     (b) pop up ad
+     (c) shopping cart
+     (d) encryption
+  ```
 
 <br>
+
+## Section B ##
+
+**Question 1 (17m)**
 
 **(A) Rate the importance of processing business knowledge. Justify your answer.**
 
@@ -32,15 +68,13 @@ The profitability and impact of e-commerce platforms during the Covid-19 pandemi
 
 <br>
 
-**(E), Is online games considered as a eCommerce platform, Explain. (4m)**
+**(E) Is online games considered as a eCommerce platform, Explain. (4m)**
 
 Online games are not typically considered traditional e-commerce platforms. While they involve digital transactions and may include elements of virtual goods or in-game purchases, the primary purpose of online games is entertainment rather than facilitating the exchange of tangible goods or services. E-commerce platforms are usually associated with the buying and selling of products or services, whereas online games primarily involve the purchase of virtual items within the gaming environment. While there are financial transactions involved, the nature and purpose of these transactions differentiate online games from traditional e-commerce platforms.
 
----
-
 <br>
 
-## Question 2 (13m) ##
+**Question 2 (13m)**
 
 **(A) Identify the two most important factor shaping decision to purchase online.**
 
@@ -78,7 +112,7 @@ The two main components for system design in the system development life cycle a
 
 AR stands for Augmented Reality. In a supermarket scenario, AR technology can be adapted to enhance the shopping experience. For example, customers could use AR-equipped smartphones to scan product shelves, and the AR system could provide additional information about each product, such as nutritional facts, pricing, and customer reviews, overlaid onto the real-world view through the smartphone screen. This interactive and information-rich experience can influence purchasing decisions and make the shopping process more engaging for consumers.
 
-<br>
+<br><br>
 
 ```
 Advantages of E-Commerce
